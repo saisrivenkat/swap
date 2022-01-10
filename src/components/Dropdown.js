@@ -24,6 +24,8 @@ const Dropdowm = () => {
         <option value="polygon">Polygon</option>
         <option value="optimism" >optimism</option>
         <option value="arbitrium">arbitrium</option>
+        <option value="fantom" >fantom</option>
+        <option value="xDai" >xDai</option>
       </select>
     </div >
   )
